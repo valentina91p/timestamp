@@ -1,0 +1,19 @@
+{
+  "name": "timestamp",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp service project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valentina91p/timestamp.git"
+  },
+  "author": "Valentina Maldonado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valentina91p/timestamp/issues"
+  },
+  "homepage": "https://github.com/valentina91p/timestamp"
+}
