@@ -21,6 +21,6 @@ app.get("/:d", function(req,res){
 	}
 	res.json(parsed_dates);
 });
-app.listen(80, function(){
+app.listen(process.env.PORT || 80, function(){
 	console.log("Running on port 80");
 }); 
